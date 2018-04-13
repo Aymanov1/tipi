@@ -17,8 +17,8 @@
     "npm": "5.6.0"},
   "private": true,
   "dependencies": {
-    "@angular/cli": "5.2.9",
-    "@angular/compiler-cli": "^5.2.0",
+    "@angular/cli": "2.3.1",
+    "@angular/compiler-cli": "2.3.1",
     "@angular/animations": "^5.2.0",
     "@angular/common": "^5.2.0",
     "@angular/compiler": "^5.2.0",
